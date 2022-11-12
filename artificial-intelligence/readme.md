@@ -1,2 +1,0 @@
-Überwachte und nichtüberwachte Verfahren
-Parametrische und nichtparametrische Verfahren
